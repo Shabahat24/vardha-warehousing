@@ -1,3 +1,9 @@
+## Project Deliverables
+
+- **Live Deployment:** https://vardha-warehousing-three.vercel.app/
+- **Video Walkthrough:** https://drive.google.com/file/d/1tYYhAso5x3luJ74kWj16pUCEczxR6A-o/view?usp=sharing
+- **GitHub Repository:** https://github.com/Shabahat24/vardha-warehousing
+
 # Vardha Warehousing — Commercial Discovery & Space Calculation Platform
 
 A modern, responsive web application for commercial warehouse space discovery, area calculation, and booking inquiries at Gorakhnath Mandir Road, Bargadwa, Gorakhpur.
